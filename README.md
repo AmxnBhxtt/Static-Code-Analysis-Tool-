@@ -34,10 +34,6 @@ This script allows you to clone a Git repository from a specified URL and perfor
 
 After running the script, you will see output indicating whether the repository was successfully cloned and the relative paths of the files in the cloned repository. Additionally, the script will perform static code analysis using Flake8 and display the analysis output for each file.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to customize and expand this README to include any additional information relevant to your project or repository.
